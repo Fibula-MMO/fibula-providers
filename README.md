@@ -1,12 +1,12 @@
 # Fibula MMO - Providers Library
 
-![.NET](https://github.com/fibula-mmo/fibula-prodivers/workflows/.NET/badge.svg)
+![.NET](https://github.com/fibula-mmo/fibula-providers/workflows/.NET/badge.svg)
 
-A common core for prodivers used over at [the Fibula MMO project](https://github.com/jlnunez89/fibula-mmo).
+A common core for providers used over at [the Fibula MMO project](https://github.com/jlnunez89/fibula-mmo).
 
 ## Implementations of this library include:
 
-- [Azure providers](https://github.com/Fibula-MMO/fibula-prodivers-azure)
+- [Azure providers](https://github.com/Fibula-MMO/fibula-providers-azure)
 
 ---
 
