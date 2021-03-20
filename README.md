@@ -2,7 +2,7 @@
 
 ![.NET](https://github.com/fibula-mmo/fibula-providers/workflows/.NET/badge.svg)
 
-A common core for providers used over at [the Fibula MMO project](https://github.com/jlnunez89/fibula-mmo).
+A common core for providers used over at [the Fibula MMO project](https://github.com/fibula-mmo).
 
 ## Implementations of this library include:
 
@@ -10,4 +10,4 @@ A common core for providers used over at [the Fibula MMO project](https://github
 
 ---
 
-##### Visit the [Fibula Project's GitHub pages!](https://jlnunez89.github.io/fibula-mmo/index.html)
+##### Visit the [Fibula Project's GitHub pages!](https://fibula-mmo.github.io/)
